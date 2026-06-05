@@ -2,19 +2,35 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# MindCare AI
 
-This contains everything you need to run your app locally.
+An AI-powered mental health and wellness assistant built with React, TypeScript, and Google's Gemini API.
 
-View your app in AI Studio: https://ai.studio/apps/c592ce80-f52e-458d-9778-086ec615efac
+## Features
+
+- **AI Chatbot**: Conversational support powered by Gemini
+- **Mental Health Assessment**: Screening tools for mental wellness
+- **Meditation Library**: Guided meditation exercises
+- **Health Tracking**: Monitor mood and wellness metrics
+- **Journal**: Personal reflection and note-taking
+- **Therapist Directory**: Find mental health professionals
+- **Crisis Support**: Emergency resources and support
+- **Yoga Studio**: Wellness exercises
+- **Progress Center**: Track your wellness journey
+- **Resources Hub**: Mental health information and guides
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
+   ```bash
+   npm install
+   ```
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
-   `npm run dev`
+   ```bash
+   npm run dev
+   ```
+
+The app will be available at http://localhost:3000
