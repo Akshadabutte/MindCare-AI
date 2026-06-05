@@ -30,4 +30,4 @@ An AI-powered mental health and wellness assistant built with React, TypeScript,
    npm run dev
    ```
 
-The app will be available at http://localhost:3000
+The app will be available at[ http://localhost:3000](https://mind-care-ai-git-main-akshadabutte-9754s-projects.vercel.app/)
