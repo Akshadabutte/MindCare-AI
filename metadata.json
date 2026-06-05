@@ -1,0 +1,8 @@
+{
+  "name": "MindCare AI",
+  "description": "A comprehensive, personalized mental health and wellness platform that adapts to youth, young adults, professionals, and mature adults using AI, diagnostic tools, and Indian Knowledge System (IKS) practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
